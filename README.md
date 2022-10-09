@@ -1,4 +1,5 @@
-<h2 align="center">Fullstack(PHP) developer</h2>
+<h2 align="center">Hotamtoy Bahromov</h2>
+<h3 align="center">Fullstack(PHP) developer</h3>
 
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Sass, Bootstrap, PHP, Laravel, ...**
