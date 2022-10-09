@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Sass, Bootstrap, PHP, Laravel, ...**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/bakhromoff](https://app.netlify.com/teams/bakhromoff)
+- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/bakhromoff/sites](https://app.netlify.com/teams/bakhromoff/sites)
 
 - 📫 How to reach me **hotamtoy9007@gmail.com**
 
