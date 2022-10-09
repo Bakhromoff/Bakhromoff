@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/bakhromoff/sites](https://app.netlify.com/teams/bakhromoff/sites)
 
-- 📫 How to reach me **hotamtoy9007@gmail.com**
+- 📫 How to reach me **https://t.me/bahromov9007**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
